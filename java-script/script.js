@@ -1,0 +1,10 @@
+$("#malnad-slide").carousel(
+    {
+        interval:2000
+    }
+)
+$("#info-slide").carousel(
+    {
+        interval:1500
+    }
+)
